@@ -1,7 +1,8 @@
-file_name='ex03_input.sh'
-file_contents=`cat $file_name`
+file_name='ex03_input.txt'
+command=`cat $file_name`
 
-for command in $file_contents
+echo `$command`
+for line in $command
 do
-    echo `$command`
+     echo `$line`
 done
