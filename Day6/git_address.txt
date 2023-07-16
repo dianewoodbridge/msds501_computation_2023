@@ -1,0 +1,2 @@
+https://github.com/dianewoodbridge/msds501_computation_2022,../msds501_computation_2022
+https://github.com/dianewoodbridge/2021-msds691-example,2021-msds691-example
